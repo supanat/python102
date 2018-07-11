@@ -1,0 +1,5 @@
+
+$ python -m django --version
+$ django-admin startproject myproject1
+$ python manage.py runserver
+$ python manage.py startapp myapp
